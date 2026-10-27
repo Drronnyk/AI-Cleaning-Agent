@@ -258,8 +258,8 @@ AI-Data-Cleaning-Agent/
 
 ## Auteur
 
-**<Ton nom>** · [GitHub](https://github.com/<ton-compte>) · [LinkedIn](https://www.linkedin.com/in/<ton-profil>)
+Kengne Ronny · [GitHub](https://github.com/Drronnyk) · [LinkedIn](https://www.linkedin.com/in/ronny-Kengne)
 
 ## Licence
 
-À définir (par exemple MIT).
+MIT
